@@ -21,6 +21,7 @@ module.exports = {
         apiKey: process.env.SHOPIFY_API_KEY,
         password: process.env.SHOPIFY_SHOP_PASSWORD,
         storeUrl: process.env.GATSBY_SHOPIFY_STORE_URL,
+        apiVersion: "2021-04",
         shopifyConnections: ["collections"],
       },
     },
