@@ -32,3 +32,4 @@ module.exports = {
     "gatsby-plugin-gatsby-cloud"
   ].filter(Boolean),
 }
+
